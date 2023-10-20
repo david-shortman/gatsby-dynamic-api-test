@@ -1,0 +1,5 @@
+.DS_Store
+**.pyc
+/product-web/.cache/
+/product-web/node_modules/
+/product-web/public/
